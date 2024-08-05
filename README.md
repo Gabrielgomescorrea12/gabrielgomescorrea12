@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**Gabrielgomescorrea12/gabrielgomescorrea12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é gabriel gomes
 
-Here are some ideas to get you started:
+- estou estudando na alura  
+- estou me desenvolvimento na linguagem javaScript
+- ultilizo esse espaço para organização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voçe pode entrar em contato comigo 📫
+
+gabriel.gomes.correa2escola.pr.gov.br
+
+@gabriel_gomes065
+
+![
+https://media1.tenor.com/m/ixR_PdayG5IAAAAC/free-fire-game.gif
